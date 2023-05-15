@@ -4,5 +4,14 @@
     "artist": "Kotoyama",
     "author": "Kotoyama",
     "cover": "https://cdn.discordapp.com/attachments/908021114138132510/1096447124260012152/vol.jpg",
-    "chapters": {}
+    "chapters": {
+        "169": {
+            "title": "Night 169",
+            "volume": "",
+            "groups": {
+                "Viz": "/proxy/api/imgur/chapter"
+            },
+            "last_updated": "1684148967"
+        }
+    }
 }
