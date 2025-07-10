@@ -268,6 +268,22 @@
                 "Viz": "/proxy/api/imgur/chapter/DDcpMFf"
             },
             "last_updated": "1692741615"
+        },
+        "200-1": {
+            "title": "Night 200-1",
+            "volume": "",
+            "groups": {
+                "Viz": "/proxy/api/imgur/chapter/16kfbcz"
+            },
+            "last_updated": "1752117762"
+        },
+        "200-2": {
+            "title": "Night 200-2",
+            "volume": "",
+            "groups": {
+                "Viz": "/proxy/api/imgur/chapter/fDR2D8I"
+            },
+            "last_updated": "1752117762"
         }
     }
 }
